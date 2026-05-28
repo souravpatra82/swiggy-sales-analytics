@@ -139,7 +139,7 @@ The Power BI dashboard visualizes restaurant performance,
 order trends, pricing analysis, and customer behavior insights.
 </p>
 
-<img src="![alt text](image.png)" width="100%">
+![Power BI Dashboard](https://github.com/souravpatra82/swiggy-sales-analytics/blob/main/Swiggy-Power%20Bi-Project/Swiggy_Dashboard.pdf)
 
 <ul>
   <li>Restaurant Performance Analysis</li>
