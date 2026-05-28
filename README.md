@@ -93,18 +93,18 @@ ratings analysis, pricing insights, and customer ordering behavior.
 <h2 id="structure">📁 Project Structure</h2>
 
 <pre>
-Swiggy-Analytics-Dashboard/
+Swiggy-Data-Analysis-Project/
 │
-├── Dashboard Screenshot/
-│   └── swiggy-dashboard.png
-│
-├── Power BI Dashboard/
-│   └── Swiggy_Dashboard.pbix
-│
-├── Dataset/
+├── Swiggy Raw Data/
 │   └── SwIggy Raw Data analysis.xlsx
 │
-├── Python Analysis/
+├── Swiggy-Analytics-Dashboard/
+│   └── swiggy-dashboard.png
+│
+├── Swiggy-Power-Bi-Project/
+│   └── Swiggy_Dashboard.pbix
+│
+├── Swiggy-Python-Project/
 │   └── swiggy-analysis.ipynb
 │
 ├── Report/
